@@ -1,0 +1,1 @@
+module.exports.REDIS_KEY = "redis_test";
